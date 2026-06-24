@@ -1,4 +1,16 @@
 ### IntelliJ IDEA ###
+# IDEA
+.idea/
+*.iml
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
